@@ -1,0 +1,104 @@
+h1.display-1 {
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+p.radness {
+    text-align: center;
+    font-size: large;
+}
+
+.row2 {
+    padding-top: 50px;
+    padding-left: 450px;
+}
+
+.col-md-6.pics {
+    padding-top: 60px;
+}
+
+.sectionlight {
+    background-color: darkgrey;
+}
+
+.headingbelow {
+    font-weight: bold;
+}
+
+.skateboard {
+    width: 100%;
+    height: fit-content;
+}
+
+.sectiondarker {
+    background-color: white;
+    padding: 2rem;
+}
+
+button.getcool {
+    text-align: center;
+    margin: auto;
+    background-color: orangered;
+    border-radius: 10px;
+    color: white;
+    border: solid;
+    border-color: white;
+    font-size: x-large;
+}
+
+.logo {
+    width: 100%;
+    height: 100px;
+    border-radius: 60px;
+}
+
+.tricks {
+    width: 65%;
+    height: 270px;
+    margin: auto;
+    padding: 60px 0 0px 100px;
+}
+
+.flickb {
+    padding: 5px 0 20px 135px;
+    width: 65%;
+}
+
+.btn.btn-primary.tricksbutton {
+    background-color: orange;
+    color: cornsilk;
+    border-radius: 20px;
+    font-size: larger;
+}
+
+.tricksvideo {
+    width: 100%;
+    border-radius: 70px;
+}
+
+.logofooter {
+    width: 80%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.fa-facebook-square {
+    color: cornflowerblue;
+}
+
+.fa-instagram {
+    color: deeppink;
+}
+
+.fa-google-plus-square {
+    color: #c32f10;
+}
+
+.socialwrap {
+    margin: auto;
+}
+
+.fa {
+    margin: 10px;
+}
